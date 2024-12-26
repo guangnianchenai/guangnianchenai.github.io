@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Jinsong Chen (陈劲松), a Computer Science Ph.D. student at Huazhong University of Science and Technology, where I am advised by Prof.  <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN"> Kun He </a>. I received my B.S. and M.S. degree in Computer Science from Xiangtan University and Beijing University of Posts and Telecommunications.
 
-My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc.
+My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc.
 
 
 # 🔥 News
