@@ -23,7 +23,7 @@ My research lies at graph representation learning and graph data mining. I have 
 
 <!-- My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc. -->
 
-<a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ gsDataBaseUrl | google-scholar-stats/gs_data_shieldsio.json }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 
