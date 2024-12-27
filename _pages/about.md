@@ -27,12 +27,12 @@ My research lies at graph representation learning and graph data mining. I have 
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. Thanks for all collaborators!
-- *2024.09*: &nbsp;🎉🎉 A paper has been accepted by NeurIPS 2024. Thanks for all collaborators!
-- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by Knowledge-based Systems. Thanks for all collaborators!
-- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for all collaborators!
-- *2023.01*: &nbsp;🎉🎉 A paper has been accepted by ICLR 2023. Thanks for all collaborators! 
-- *2022.09*: &nbsp;🎉🎉 A paper has been accepted by ICDM 2022. Thanks for all collaborators! 
+- *2024.12*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. **Many thanks for Chang GieGie!**
+- *2024.09*: &nbsp;🎉🎉 A paper has been accepted by NeurIPS 2024. **Many thanks for the God Hanpeng!**
+- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by Knowledge-based Systems. Thanks for Boyu!
+- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for Boyu!
+- *2023.01*: &nbsp;🎉🎉 A paper has been accepted by ICLR 2023. Thanks for Kaiyuan and Gaichao! 
+- *2022.09*: &nbsp;🎉🎉 A paper has been accepted by ICDM 2022. Congratulations to Qiuting! 
 
 # 📝 Selected Publications 
 ("*": equal contribution; "†": correspondence)
