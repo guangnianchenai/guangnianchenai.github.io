@@ -77,7 +77,7 @@ My research lies at graph representation learning and graph data mining. I have 
 
 ## Journal papers
 
-- **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:0EnyYjriUFMC'></span></strong>
+- **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. <strong><span class='.' data='F470g5wAAAAJ:0EnyYjriUFMC'></span></strong>
 
 - **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Kun He<sup>† </sup>. [Neighborhood Convolutional Graph Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004957). **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:WF5omc3nYNoC'></span></strong>
 
