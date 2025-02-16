@@ -68,20 +68,26 @@ My research lies at graph representation learning and graph data mining. I have 
 
 ## Conference papers
 
-- **Jinsong Chen**, Hanpeng Liu, John E. Hopcroft, Kun He<sup>† </sup>. [Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers](https://arxiv.org/pdf/2406.19258). **<font color=BlueViolet>NeurIPS 2024</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:roLk4NBRz8UC'></span></strong>
+- **Jinsong Chen**, Hanpeng Liu, John E. Hopcroft, Kun He<sup>† </sup>. [Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers](https://arxiv.org/pdf/2406.19258). **<font color=BlueViolet>NeurIPS 2024</font>**. 
+<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:roLk4NBRz8UC'></span></strong> -->
 
-- **Jinsong Chen**<sup>* </sup>, Kaiyuan Gao<sup>* </sup>, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://arxiv.org/pdf/2206.04910). **<font color=BlueViolet>ICLR 2023</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:d1gkVwhDpl0C'></span></strong>
+- **Jinsong Chen**<sup>* </sup>, Kaiyuan Gao<sup>* </sup>, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://arxiv.org/pdf/2206.04910). **<font color=BlueViolet>ICLR 2023</font>**. 
+<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:d1gkVwhDpl0C'></span></strong> -->
 
-- Qiuting He<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Hao Xu, Kun He<sup>† </sup>. [Structural Robust Label Propagation on Homogeneous Graphs](https://ieeexplore.ieee.org/abstract/document/10027748). **<font color=BlueViolet>ICDM 2022</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:u-x6o8ySG0sC'></span></strong>
+- Qiuting He<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Hao Xu, Kun He<sup>† </sup>. [Structural Robust Label Propagation on Homogeneous Graphs](https://ieeexplore.ieee.org/abstract/document/10027748). **<font color=BlueViolet>ICDM 2022</font>**. 
+<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:u-x6o8ySG0sC'></span></strong> -->
 
 
 ## Journal papers
 
-- **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:0EnyYjriUFMC'></span></strong>
+- **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. 
+<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:0EnyYjriUFMC'></span></strong> -->
 
-- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Kun He<sup>† </sup>. [Neighborhood Convolutional Graph Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004957). **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:WF5omc3nYNoC'></span></strong>
+- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Kun He<sup>† </sup>. [Neighborhood Convolutional Graph Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004957). **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. 
+<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:WF5omc3nYNoC'></span></strong> -->
 
-- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Qiuting He, Kun He<sup>† </sup>. [PAMT: A Novel Propagation-Based Approach via Adaptive Similarity Mask for Node Classification](https://ieeexplore.ieee.org/abstract/document/10526397). **<font color=BlueViolet>IEEE Transactions on Computational Social Systems</font>**, **<font color=BlueViolet>2024</font>**. <strong><span class='show_paper_citations' data='F470g5wAAAAJ:ufrVoPGSRksC'></span></strong>
+- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Qiuting He, Kun He<sup>† </sup>. [PAMT: A Novel Propagation-Based Approach via Adaptive Similarity Mask for Node Classification](https://ieeexplore.ieee.org/abstract/document/10526397). **<font color=BlueViolet>IEEE Transactions on Computational Social Systems</font>**, **<font color=BlueViolet>2024</font>**. 
+<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:ufrVoPGSRksC'></span></strong> -->
 
 
 <!-- # 🎖 Honors and Awards
