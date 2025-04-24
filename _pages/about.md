@@ -27,7 +27,7 @@ My research lies at graph representation learning and graph data mining. I have 
 
 
 # 🔥 News
-<div style="height:150px;overflow:scroll;background:#0000;">
+<div style="height:220px;overflow:scroll;background:#0000;">
 
 
 <ul>  
