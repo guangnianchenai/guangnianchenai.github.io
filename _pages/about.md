@@ -29,17 +29,30 @@ My research lies at graph representation learning and graph data mining. I have 
 # 🔥 News
 <div style="height:150px;overflow:scroll;background:#0000;">
 
-- *2025.04*: Invited as a reviewer of ECAI 2025.
-- *2025.03*: Invited as a reviewer of ACM MM 2025.
-- *2025.02*: Invited as a reviewer of NeurIPS 2025.
-- *2025.01*: Invited as a reviewer of KDD 2025.
-- *2025.01*: Invited as a reviewer of ICML 2025.
-- *2024.12*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. **Many thanks for Chang GieGie!** 
-- *2024.09*: &nbsp;🎉🎉 A paper has been accepted by NeurIPS 2024. **Many thanks for the God Hanpeng!** 
-- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by Knowledge-based Systems. Thanks for Boyu! 
-- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for Boyu! 
-- *2023.01*: &nbsp;🎉🎉 A paper has been accepted by ICLR 2023. Thanks for Kaiyuan and Gaichao! 
-- *2022.09*: &nbsp;🎉🎉 A paper has been accepted by ICDM 2022. Congratulations to Qiuting! 
+
+<ul>  
+  <li><B>2025.04</B>: Invited to serve as a reviewer for ECAI 2025.</li>
+
+  <li><B>2025.03</B>: Invited to serve as a reviewer for ACM MM 2025.</li>
+
+  <li><B>2025.02</B>: Invited to serve as a reviewer for NeurIPS 2025.</li>
+
+  <li><B>2025.01</B>: Invited to serve as a reviewer for KDD 2025.</li>
+
+  <li><B>2025.01</B>: Invited to serve as a reviewer for ICML 2025.</li>
+
+  <li><B>2024.12</B>: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. <B>Many thanks for Chang GieGie!</B></li>
+
+  <li><B>2024.09</B>: &nbsp;🎉🎉 A paper has been accepted by NeurIPS 2024. <B>Many thanks for the God Hanpeng!!</B></li>
+
+  <li><B>2024.04</B>: &nbsp;🎉🎉 A paper has been accepted by Knowledge-based Systems. Thanks for Boyu!</li>
+
+  <li><B>2024.04</B>: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for Boyu!</li>
+
+  <li><B>2023.01</B>: &nbsp;🎉🎉 A paper has been accepted by ICLR 2023. Thanks for Kaiyuan and Gaichao!</li>
+
+  <li><B>2022.09</B>: &nbsp;🎉🎉 A paper has been accepted by ICDM 2022. Congratulations to Qiuting!</li>
+</ul>
 
 
 </div>
