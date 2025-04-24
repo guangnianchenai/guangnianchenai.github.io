@@ -21,19 +21,28 @@ Hi, I am Jinsong Chen (陈劲松), a Computer Science Ph.D. student at Huazhong 
 
 <!-- My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc. -->
 
-My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc.
+My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong>200+</strong></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc.
 
 
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. **Many thanks for Chang GieGie!**
-- *2024.09*: &nbsp;🎉🎉 A paper has been accepted by NeurIPS 2024. **Many thanks for the God Hanpeng!**
-- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by Knowledge-based Systems. Thanks for Boyu!
-- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for Boyu!
+<div style="height:150px;overflow:scroll;background:#0000;">
+
+- *2025.04*: Invited as a reviewer of ECAI 2025.
+- *2025.03*: Invited as a reviewer of ACM MM 2025.
+- *2025.02*: Invited as a reviewer of NeurIPS 2025.
+- *2025.01*: Invited as a reviewer of KDD 2025.
+- *2025.01*: Invited as a reviewer of ICML 2025.
+- *2024.12*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. **Many thanks for Chang GieGie!** 
+- *2024.09*: &nbsp;🎉🎉 A paper has been accepted by NeurIPS 2024. **Many thanks for the God Hanpeng!** 
+- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by Knowledge-based Systems. Thanks for Boyu! 
+- *2024.04*: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for Boyu! 
 - *2023.01*: &nbsp;🎉🎉 A paper has been accepted by ICLR 2023. Thanks for Kaiyuan and Gaichao! 
 - *2022.09*: &nbsp;🎉🎉 A paper has been accepted by ICDM 2022. Congratulations to Qiuting! 
 
+
+</div>
 # 📝 Selected Publications 
 ("*": equal contribution; "†": correspondence)
 
@@ -45,7 +54,7 @@ My research lies at graph representation learning and graph data mining. I have 
 
 **Jinsong Chen**, <a href="https://scholar.google.com/citations?user=5c3zymMAAAAJ&hl=zh-CN">Henpeng Liu</a>, <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
 
-[**Code**](https://github.com/JHL-HUST/GCFormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/GCFormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/GCFormer) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:_kc_bZDykSQC'></span></strong>
+[**Code**](https://github.com/JHL-HUST/GCFormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/GCFormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/GCFormer) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:4TOpqqG69KYC'></span></strong>
 </div>
 </div>
 
