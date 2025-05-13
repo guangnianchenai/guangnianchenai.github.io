@@ -30,7 +30,10 @@ My research lies at graph representation learning and graph data mining. I have 
 <div style="height:220px;overflow:scroll;background:#0000;">
 
 
-<ul>  
+<ul>
+
+  <li><B>2025.05</B>: &nbsp;🎉🎉 A paper has been accepted by Knowledge and Information Systems. Thanks for Meng Wang!</li>
+
   <li><B>2025.04</B>: Invited to serve as a reviewer for ECAI 2025.</li>
 
   <li><B>2025.03</B>: Invited to serve as a reviewer for ACM MM 2025.</li>
