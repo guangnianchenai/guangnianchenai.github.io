@@ -105,6 +105,9 @@ My research lies at graph representation learning and graph data mining. I have 
 
 ## Journal papers
 
+
+- **Jinsong Chen**<sup>* </sup>, Meng Wang<sup>* </sup>, Kun He<sup>† </sup>. Hybrid Long-Range Dependency-Aware Graph Convolutional Network for Node Classification. **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2025</font>**. 
+
 - **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:0EnyYjriUFMC'></span></strong> -->
 
