@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F470g5wAAAAJ"
-  email            : "guangnianchenai@gmail.com"
+  email "guangnianchenai@gmail.com"            : "guangnianchenai@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
