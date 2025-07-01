@@ -32,9 +32,9 @@ My research lies at graph representation learning and graph data mining. I have 
 
 <ul>
 
-  <li><B>2025.06</B>: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. Congratulations to Gaichao!</li>
+  <li><B>2025.06</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Congratulations to Gaichao!</li>
 
-  <li><B>2025.05</B>: &nbsp;🎉🎉 A paper has been accepted by Knowledge and Information Systems. Thanks for Meng Wang!</li>
+  <li><B>2025.05</B>: &nbsp;🎉🎉 One paper has been accepted by Knowledge and Information Systems. Thanks for Meng Wang!</li>
 
   <li><B>2025.04</B>: Invited to serve as a reviewer for ECAI 2025.</li>
 
@@ -46,17 +46,17 @@ My research lies at graph representation learning and graph data mining. I have 
 
   <li><B>2025.01</B>: Invited to serve as a reviewer for ICML 2025.</li>
 
-  <li><B>2024.12</B>: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Big Data. <B>Many thanks for Chang GieGie!</B></li>
+  <li><B>2024.12</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. <B>Many thanks for Chang GieGie!</B></li>
 
-  <li><B>2024.09</B>: &nbsp;🎉🎉 A paper has been accepted by NeurIPS 2024. <B>Many thanks for the God Hanpeng!!</B></li>
+  <li><B>2024.09</B>: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024. <B>Many thanks for the God Hanpeng!!</B></li>
 
-  <li><B>2024.04</B>: &nbsp;🎉🎉 A paper has been accepted by Knowledge-based Systems. Thanks for Boyu!</li>
+  <li><B>2024.04</B>: &nbsp;🎉🎉 One paper has been accepted by Knowledge-based Systems. Thanks for Boyu!</li>
 
-  <li><B>2024.04</B>: &nbsp;🎉🎉 A paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for Boyu!</li>
+  <li><B>2024.04</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Computational Social Systems. Thanks for Boyu!</li>
 
-  <li><B>2023.01</B>: &nbsp;🎉🎉 A paper has been accepted by ICLR 2023. Thanks for Kaiyuan and Gaichao!</li>
+  <li><B>2023.01</B>: &nbsp;🎉🎉 One paper has been accepted by ICLR 2023. Thanks for Kaiyuan and Gaichao!</li>
 
-  <li><B>2022.09</B>: &nbsp;🎉🎉 A paper has been accepted by ICDM 2022. Congratulations to Qiuting!</li>
+  <li><B>2022.09</B>: &nbsp;🎉🎉 One paper has been accepted by ICDM 2022. Congratulations to Qiuting!</li>
 </ul>
 
 
