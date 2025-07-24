@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Jinsong Chen (陈劲松), a Computer Science Ph.D. student at Huazhong University of Science and Technology, where I am advised by Prof.  <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN"> Kun He </a>. I received my B.S. and M.S. degree in Computer Science from Xiangtan University and Beijing University of Posts and Telecommunications.
+Jinsong Chen (陈劲松 in Chinese) is currently a Associate Researcher at Faculty of Artificial Intelligence in Education, Central China Normal University. Before that, he received his Ph.D., M.S. and B.S. degree in Computer Science from Huazhong University of Science and Technology (advised by Prof. <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN"> Kun He </a>), Beijing University of Posts and Telecommunications and Xiangtan University, respectively.
 
 <!-- My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc. -->
 
-My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong>200+</strong></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc.
+His researches lie at graph representation learning, graph data mining and AI for education. He has published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong>300+</strong></a>. He also serves as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, TPAMI, TNNLS etc.
 
 
 
@@ -93,24 +93,18 @@ My research lies at graph representation learning and graph data mining. I have 
 # 📖 All Publications 
 ("*": equal contribution; "†": correspondence)
 
-## Conference papers
+## 2025
+
+- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He<sup>† </sup>. [GTPool: Graph Transformer Pooling with Diverse Sampling](https://ieeexplore.ieee.org/abstract/document/11077426/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
+
+- **Jinsong Chen**<sup>* </sup>, Meng Wang<sup>* </sup>, Kun He<sup>† </sup>. [Hybrid Long-Range Dependency-Aware Graph Convolutional Network for Node Classification](https://link.springer.com/article/10.1007/s10115-025-02473-8). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2025</font>**. 
+
+
+
+## 2024
 
 - **Jinsong Chen**, Hanpeng Liu, John E. Hopcroft, Kun He<sup>† </sup>. [Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers](https://arxiv.org/pdf/2406.19258). **<font color=BlueViolet>NeurIPS 2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:roLk4NBRz8UC'></span></strong> -->
-
-- **Jinsong Chen**<sup>* </sup>, Kaiyuan Gao<sup>* </sup>, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://arxiv.org/pdf/2206.04910). **<font color=BlueViolet>ICLR 2023</font>**. 
-<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:d1gkVwhDpl0C'></span></strong> -->
-
-- Qiuting He<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Hao Xu, Kun He<sup>† </sup>. [Structural Robust Label Propagation on Homogeneous Graphs](https://ieeexplore.ieee.org/abstract/document/10027748). **<font color=BlueViolet>ICDM 2022</font>**. 
-<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:u-x6o8ySG0sC'></span></strong> -->
-
-
-## Journal papers
-
-
-- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He<sup>† </sup>. GTPool: Graph Transformer Pooling with Diverse Sampling. **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
-
-- **Jinsong Chen**<sup>* </sup>, Meng Wang<sup>* </sup>, Kun He<sup>† </sup>. [Hybrid Long-Range Dependency-Aware Graph Convolutional Network for Node Classification](https://link.springer.com/article/10.1007/s10115-025-02473-8). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2025</font>**. 
 
 - **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:0EnyYjriUFMC'></span></strong> -->
@@ -120,6 +114,20 @@ My research lies at graph representation learning and graph data mining. I have 
 
 - **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Qiuting He, Kun He<sup>† </sup>. [PAMT: A Novel Propagation-Based Approach via Adaptive Similarity Mask for Node Classification](https://ieeexplore.ieee.org/abstract/document/10526397). **<font color=BlueViolet>IEEE Transactions on Computational Social Systems</font>**, **<font color=BlueViolet>2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:ufrVoPGSRksC'></span></strong> -->
+
+## 2023
+
+- **Jinsong Chen**<sup>* </sup>, Kaiyuan Gao<sup>* </sup>, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://arxiv.org/pdf/2206.04910). **<font color=BlueViolet>ICLR 2023</font>**. 
+<!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:d1gkVwhDpl0C'></span></strong> -->
+
+## 2022
+
+- Qiuting He<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Hao Xu, Kun He<sup>† </sup>. [Structural Robust Label Propagation on Homogeneous Graphs](https://ieeexplore.ieee.org/abstract/document/10027748). **<font color=BlueViolet>ICDM 2022</font>**. 
+
+
+
+
+
 
 
 <!-- # 🎖 Honors and Awards
