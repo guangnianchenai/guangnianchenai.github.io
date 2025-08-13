@@ -32,7 +32,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
-  <li><B>2025.07</B>: Invited to serve as a reviewer for AAAI 2026.</li>
+  <li><B>2025.08</B>: Invited to serve as a reviewer for AAAI 2026.</li>
 
   <li><B>2025.07</B>: Invited to serve as a reviewer for ACM MM 2025 Datasets Track.</li>
 
