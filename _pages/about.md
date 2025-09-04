@@ -32,6 +32,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2025.09</B>: Invited to serve as a reviewer for ICLR 2026.</li>
+
   <li><B>2025.08</B>: Invited to serve as a reviewer for AISTATS 2026.</li>
 
   <li><B>2025.08</B>: Invited to serve as a reviewer for LOG 2025.</li>
