@@ -32,6 +32,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2025.09</B>: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025. Thanks for Chenyang and Gaichao!</li>
+
   <li><B>2025.09</B>: Invited to serve as a reviewer for ICLR 2026.</li>
 
   <li><B>2025.08</B>: Invited to serve as a reviewer for AISTATS 2026.</li>
@@ -74,6 +76,17 @@ His researches lie at graph representation learning, graph data mining and AI fo
 # 📝 Selected Publications 
 ("*": equal contribution; "†": correspondence)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/swap.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101)
+
+**Jinsong Chen**<sup>* </sup>, <a href="https://scholar.google.com/citations?user=5c3zymMAAAAJ&hl=zh-CN">Chenyang Li</a><sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>,<a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
+
+[**Code**](https://github.com/JHL-HUST/GCFormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/GCFormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/GCFormer) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:4TOpqqG69KYC'></span></strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/GCFormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,6 +117,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 ("*": equal contribution; "†": correspondence)
 
 ## 2025
+
+- **Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, Gaichao Li, John E. Hopcroft, Kun He<sup>† </sup>. [Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101). **<font color=BlueViolet>NeurIPS 2025</font>**. 
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He<sup>† </sup>. [GTPool: Graph Transformer Pooling with Diverse Sampling](https://ieeexplore.ieee.org/abstract/document/11077426/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
 
