@@ -23,6 +23,7 @@ Jinsong Chen (陈劲松 in Chinese) is currently an Associate Researcher at Facu
 
 His researches lie at graph representation learning, graph data mining and AI for education. He has published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong>300+</strong></a>. He also serves as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, TPAMI, TNNLS etc.
 
+<p style="color: red;">T1：</p> I am looking for self-motivated candidates including senior undergraduate and postgraduate. If you are interested in graph representation learning or AI for education, please feel free to drop me an e-mail with your CV.
 
 
 
@@ -81,7 +82,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 [Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101)
 
-**Jinsong Chen**<sup>* </sup>, <a href="https://scholar.google.com/citations?user=5c3zymMAAAAJ&hl=zh-CN">Chenyang Li</a><sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>,<a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
+**Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>, <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
 
 [**Code**](https://github.com/JHL-HUST/GCFormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/GCFormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/GCFormer) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:4TOpqqG69KYC'></span></strong>
 </div>
