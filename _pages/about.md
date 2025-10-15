@@ -33,6 +33,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2025.10</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Thanks for Siyu!</li>
+
   <li><B>2025.09</B>: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025. Thanks for Chenyang and Gaichao!</li>
 
   <li><B>2025.09</B>: Invited to serve as a reviewer for ICLR 2026.</li>
@@ -120,6 +122,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 ## 2025
 
 - **Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, Gaichao Li, John E. Hopcroft, Kun He<sup>† </sup>. [Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101). **<font color=BlueViolet>NeurIPS 2025</font>**. 
+
+- **Jinsong Chen**<sup>* </sup>, Siyu Jiang<sup>* </sup>, Kun He<sup>† </sup>. [NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification](https://arxiv.org/abs/2406.19249). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He<sup>† </sup>. [GTPool: Graph Transformer Pooling with Diverse Sampling](https://ieeexplore.ieee.org/abstract/document/11077426/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
 
