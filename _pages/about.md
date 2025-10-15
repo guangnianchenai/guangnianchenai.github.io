@@ -125,9 +125,9 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 - **Jinsong Chen**<sup>* </sup>, Siyu Jiang<sup>* </sup>, Kun He<sup>† </sup>. [NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification](https://arxiv.org/abs/2406.19249). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
 
-- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He<sup>† </sup>. [GTPool: Graph Transformer Pooling with Diverse Sampling](https://ieeexplore.ieee.org/abstract/document/11077426/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
-
 - **Jinsong Chen**<sup>* </sup>, Meng Wang<sup>* </sup>, Kun He<sup>† </sup>. [Hybrid Long-Range Dependency-Aware Graph Convolutional Network for Node Classification](https://link.springer.com/article/10.1007/s10115-025-02473-8). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2025</font>**. 
+
+- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He<sup>† </sup>. [GTPool: Graph Transformer Pooling with Diverse Sampling](https://ieeexplore.ieee.org/abstract/document/11077426/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
 
 
 
