@@ -86,7 +86,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 **Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>, <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
 
-[**Code**](https://github.com/JHL-HUST/GCFormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/GCFormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/GCFormer) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:4TOpqqG69KYC'></span></strong>
+[**Code**](https://github.com/JHL-HUST/SwapGT) \| [![](https://img.shields.io/github/stars/JHL-HUST/SwapGT?style=social&label=Code+Stars)](https://github.com/JHL-HUST/SwapGT) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:4TOpqqG69KYC'></span></strong>
 </div>
 </div>
 
