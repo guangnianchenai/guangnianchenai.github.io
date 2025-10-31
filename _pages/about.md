@@ -16,25 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<head>
-  <style>
-    :root { font-size: 16px; } /* 根元素默认大小 */
-    .big-text { font-size: 1.5rem; } /* 大一号 */
-    .normal { font-size: 1rem; } /* 原始大小 */
-  </style>
-</head>
 
 
 
 <span class='anchor' id='about-me'></span>
 
-<p class="big-text">Jinsong Chen (陈劲松 in Chinese) is currently an Associate Researcher at Faculty of Artificial Intelligence in Education, Central China Normal University (guangnianchenai[AT]ccnu[DOT]edu[DOT]cn, guangnianchenai[AT]gmail[DOT]com). Before that, he received his Ph.D., M.S. and B.S. degree in Computer Science from Huazhong University of Science and Technology (advised by Prof. <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN"> Kun He </a>), Beijing University of Posts and Telecommunications and Xiangtan University, respectively. </p>
-
-<!-- My research lies at graph representation learning and graph data mining. I have published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I also serve as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, etc. -->
+Jinsong Chen (陈劲松 in Chinese) is currently an Associate Researcher at Faculty of Artificial Intelligence in Education, Central China Normal University (guangnianchenai[AT]ccnu[DOT]edu[DOT]cn, guangnianchenai[AT]gmail[DOT]com). Before that, he received his Ph.D., M.S. and B.S. degree in Computer Science from Huazhong University of Science and Technology (advised by Prof. <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN"> Kun He </a>), Beijing University of Posts and Telecommunications and Xiangtan University, respectively. 
 
 His researches lie at graph representation learning, graph data mining and AI for education. He has published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong>300+</strong></a>. He also serves as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, WWW, TKDE, TPAMI, TNNLS etc.
 
-<p style="color: red;">T1：</p> I am looking for self-motivated candidates including senior undergraduate and postgraduate. If you are interested in graph representation learning or AI for education, please feel free to drop me an e-mail with your CV.
+<p style="color: red;"> I am looking for self-motivated candidates including senior undergraduate and postgraduate. If you are interested in graph representation learning or AI for education, please feel free to drop me an e-mail with your CV. </p>
 
 
 
