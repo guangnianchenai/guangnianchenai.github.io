@@ -19,7 +19,7 @@ redirect_from:
 <head>
   <style>
     :root { font-size: 16px; } /* 根元素默认大小 */
-    .big-text { font-size: 1.1rem; } /* 大一号 */
+    .big-text { font-size: 1.5rem; } /* 大一号 */
     .normal { font-size: 1rem; } /* 原始大小 */
   </style>
 </head>
