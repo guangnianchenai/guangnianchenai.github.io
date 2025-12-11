@@ -35,7 +35,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
-  <li><B>2025.08</B>: Invited to serve as a reviewer for IJCAI 2026.</li>
+  <li><B>2025.12</B>: Invited to serve as a reviewer for IJCAI 2026.</li>
 
   <li><B>2025.10</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Thanks for Siyu!</li>
 
