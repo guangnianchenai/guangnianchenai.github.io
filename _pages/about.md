@@ -35,6 +35,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2026.01</B>: &nbsp;🎉🎉 One paper has been accepted by ACM Transactions on Knowledge Discovery from Data. Congratulations to Gaichao!</li>
+
   <li><B>2025.12</B>: Invited to serve as a reviewer for ICML 2026.</li>
 
   <li><B>2025.12</B>: Invited to serve as a reviewer for IJCAI 2026.</li>
@@ -124,6 +126,10 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 # 📖 All Publications 
 ("*": equal contribution; "†": correspondence)
+
+## 2026
+
+- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He<sup>† </sup>. Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning. **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
 
 ## 2025
 
