@@ -35,6 +35,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2026.02</B>: Invited to serve as a reviewer for ACM MM 2026.</li>
+
   <li><B>2026.01</B>: &nbsp;🎉🎉 One paper has been accepted by Knowledge-based Systems. Congratulations to Jiaxuan!</li>
 
   <li><B>2026.01</B>: &nbsp;🎉🎉 One paper has been accepted by ACM Transactions on Knowledge Discovery from Data. Congratulations to Gaichao!</li>
