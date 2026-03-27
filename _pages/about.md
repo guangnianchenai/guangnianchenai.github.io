@@ -91,8 +91,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 # 📝 Selected Publications 
 ("*": equal contribution; "†": correspondence)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/swap.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/swap.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 <!-- [Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101)
 
