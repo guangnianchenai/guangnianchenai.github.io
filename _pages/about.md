@@ -96,7 +96,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 [Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101)
 
-**Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>, <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
+**Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>, <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a>
 
 [**Code**](https://github.com/JHL-HUST/SwapGT) \| [![](https://img.shields.io/github/stars/JHL-HUST/SwapGT?style=social&label=Code+Stars)](https://github.com/JHL-HUST/SwapGT) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:4TOpqqG69KYC'></span></strong>
 </div>
@@ -108,7 +108,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 [Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers](https://arxiv.org/pdf/2406.19258)
 
-**Jinsong Chen**, <a href="https://scholar.google.com/citations?user=5c3zymMAAAAJ&hl=zh-CN">Henpeng Liu</a>, <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
+**Jinsong Chen**, <a href="https://scholar.google.com/citations?user=5c3zymMAAAAJ&hl=zh-CN">Henpeng Liu</a>, <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ&hl=zh-CN">John E. Hopcroft</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a>
 
 [**Code**](https://github.com/JHL-HUST/GCFormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/GCFormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/GCFormer) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:4TOpqqG69KYC'></span></strong>
 </div>
@@ -120,7 +120,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://arxiv.org/pdf/2206.04910)
 
-**Jinsong Chen**<sup>* </sup>, <a href="https://scholar.google.com/citations?user=Or77MPQAAAAJ&hl=zh-CN">Kaiyuan Gao</a><sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a><sup>† </sup>
+**Jinsong Chen**<sup>* </sup>, <a href="https://scholar.google.com/citations?user=Or77MPQAAAAJ&hl=zh-CN">Kaiyuan Gao</a><sup>* </sup>, <a href="https://scholar.google.com/citations?user=8k7cm0QAAAAJ&hl=zh-CN">Gaichao Li</a>, <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=zh-CN">Kun He</a>
 
 [**Code**](https://github.com/JHL-HUST/NAGphormer) \| [![](https://img.shields.io/github/stars/JHL-HUST/NAGphormer?style=social&label=Code+Stars)](https://github.com/JHL-HUST/NAGphormer) \| <strong><span class='show_paper_citations' data='F470g5wAAAAJ:d1gkVwhDpl0C'></span></strong>
 </div>
@@ -133,7 +133,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 ## 2026
 
-- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He<sup>† </sup>. Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning. **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
+- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He. Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning. **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
 
 
 - Jiaxuan Song, Yue Li, Duantengchuan Li, Xiaoguang Wang, Rui Zhang, Hui Zhang, **Jinsong Chen**. Integrating Deep Clustering and Multi-View Graph Neural Networks for Recommender System. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2026</font>**.
@@ -143,38 +143,38 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 ## 2025
 
-- **Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, Gaichao Li, John E. Hopcroft, Kun He<sup>† </sup>. [Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101). **<font color=BlueViolet>NeurIPS 2025</font>**. 
+- **Jinsong Chen**<sup>* </sup>, Chenyang Li<sup>* </sup>, Gaichao Li, John E. Hopcroft, Kun He. [Rethinking Tokenized Graph Transformers for Node Classification](https://arxiv.org/abs/2502.08101). **<font color=BlueViolet>NeurIPS 2025</font>**. 
 
-- **Jinsong Chen**<sup>* </sup>, Siyu Jiang<sup>* </sup>, Kun He<sup>† </sup>. [NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification](https://ieeexplore.ieee.org/abstract/document/11216032/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
+- **Jinsong Chen**<sup>* </sup>, Siyu Jiang<sup>* </sup>, Kun He. [NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification](https://ieeexplore.ieee.org/abstract/document/11216032/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
 
-- **Jinsong Chen**<sup>* </sup>, Meng Wang<sup>* </sup>, Kun He<sup>† </sup>. [Hybrid Long-Range Dependency-Aware Graph Convolutional Network for Node Classification](https://link.springer.com/article/10.1007/s10115-025-02473-8). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2025</font>**. 
+- **Jinsong Chen**<sup>* </sup>, Meng Wang<sup>* </sup>, Kun He. [Hybrid Long-Range Dependency-Aware Graph Convolutional Network for Node Classification](https://link.springer.com/article/10.1007/s10115-025-02473-8). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2025</font>**. 
 
-- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He<sup>† </sup>. [GTPool: Graph Transformer Pooling with Diverse Sampling](https://ieeexplore.ieee.org/abstract/document/11077426/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
+- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He. [GTPool: Graph Transformer Pooling with Diverse Sampling](https://ieeexplore.ieee.org/abstract/document/11077426/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2025</font>**. 
 
 
 
 ## 2024
 
-- **Jinsong Chen**, Hanpeng Liu, John E. Hopcroft, Kun He<sup>† </sup>. [Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers](https://arxiv.org/pdf/2406.19258). **<font color=BlueViolet>NeurIPS 2024</font>**. 
+- **Jinsong Chen**, Hanpeng Liu, John E. Hopcroft, Kun He. [Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers](https://arxiv.org/pdf/2406.19258). **<font color=BlueViolet>NeurIPS 2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:roLk4NBRz8UC'></span></strong> -->
 
-- **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. 
+- **Jinsong Chen**, Chang Liu, Kaiyuan Gao, Gaichao Li, Kun He. [NAGphormer+: A Tokenized Graph Transformer with Neighborhood Augmentation for Node Classification in Large Graphs](https://ieeexplore.ieee.org/abstract/document/10818575). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:0EnyYjriUFMC'></span></strong> -->
 
-- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Kun He<sup>† </sup>. [Neighborhood Convolutional Graph Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004957). **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. 
+- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Kun He. [Neighborhood Convolutional Graph Neural Network](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004957). **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:WF5omc3nYNoC'></span></strong> -->
 
-- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Qiuting He, Kun He<sup>† </sup>. [PAMT: A Novel Propagation-Based Approach via Adaptive Similarity Mask for Node Classification](https://ieeexplore.ieee.org/abstract/document/10526397). **<font color=BlueViolet>IEEE Transactions on Computational Social Systems</font>**, **<font color=BlueViolet>2024</font>**. 
+- **Jinsong Chen**<sup>* </sup>, Boyu Li<sup>* </sup>, Qiuting He, Kun He. [PAMT: A Novel Propagation-Based Approach via Adaptive Similarity Mask for Node Classification](https://ieeexplore.ieee.org/abstract/document/10526397). **<font color=BlueViolet>IEEE Transactions on Computational Social Systems</font>**, **<font color=BlueViolet>2024</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:ufrVoPGSRksC'></span></strong> -->
 
 ## 2023
 
-- **Jinsong Chen**<sup>* </sup>, Kaiyuan Gao<sup>* </sup>, Gaichao Li, Kun He<sup>† </sup>. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://arxiv.org/pdf/2206.04910). **<font color=BlueViolet>ICLR 2023</font>**. 
+- **Jinsong Chen**<sup>* </sup>, Kaiyuan Gao<sup>* </sup>, Gaichao Li, Kun He. [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://arxiv.org/pdf/2206.04910). **<font color=BlueViolet>ICLR 2023</font>**. 
 <!-- <strong><span class='show_paper_citations' data='F470g5wAAAAJ:d1gkVwhDpl0C'></span></strong> -->
 
 ## 2022
 
-- Qiuting He<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Hao Xu, Kun He<sup>† </sup>. [Structural Robust Label Propagation on Homogeneous Graphs](https://ieeexplore.ieee.org/abstract/document/10027748). **<font color=BlueViolet>ICDM 2022</font>**. 
+- Qiuting He<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Hao Xu, Kun He. [Structural Robust Label Propagation on Homogeneous Graphs](https://ieeexplore.ieee.org/abstract/document/10027748). **<font color=BlueViolet>ICDM 2022</font>**. 
 
 
 
