@@ -35,6 +35,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2026.06</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Congratulations to Gaichao!</li>
+
   <li><B>2026.02</B>: Invited to serve as a reviewer for ACM MM 2026.</li>
 
   <li><B>2026.01</B>: &nbsp;🎉🎉 One paper has been accepted by Knowledge-based Systems. Congratulations to Jiaxuan!</li>
@@ -134,6 +136,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 ## 2026
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He. [Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning](https://dl.acm.org/doi/10.1145/3794847). **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
+
+- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He. [Global-Local Contrastive Graph Transformer for Node Classification](https://dl.acm.org/doi/10.1145/3794847). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2026</font>**.
 
 
 - Jiaxuan Song, Yue Li, Duantengchuan Li, Xiaoguang Wang, Rui Zhang, Hui Zhang, **Jinsong Chen**. [Integrating Deep Clustering and Multi-View Graph Neural Networks for Recommender System](https://www.sciencedirect.com/science/article/pii/S0950705126001929). **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2026</font>**.
