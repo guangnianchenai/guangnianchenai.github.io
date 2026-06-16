@@ -34,6 +34,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 
 <ul>
+  <li><B>2026.06</B>: &nbsp;🎉🎉 One paper has been accepted by Knowledge and Information Systems. Thanks for Gaichao!</li>
 
   <li><B>2026.06</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Congratulations to Gaichao!</li>
 
@@ -134,6 +135,11 @@ His researches lie at graph representation learning, graph data mining and AI fo
 ("*": equal contribution; "†": correspondence)
 
 ## 2026
+
+- **Jinsong Chen**<sup>* </sup>, Gaichao Li<sup>* </sup>, John E Hopcroft, Kun He. [SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning](https://arxiv.org/abs/2310.11025). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2026</font>**.
+
+- Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He. [Global-Local Contrastive Graph Transformer for Node Classification](https://ieeexplore.ieee.org/abstract/document/11557163/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2026</font>**.
+
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He. [Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning](https://dl.acm.org/doi/10.1145/3794847). **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
 
