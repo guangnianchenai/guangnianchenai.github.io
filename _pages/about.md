@@ -136,7 +136,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 ## 2026
 
-- **Jinsong Chen**<sup>* </sup>, Gaichao Li<sup>* </sup>, John E Hopcroft, Kun He. [SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning](https://arxiv.org/abs/2310.11025). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2026</font>**.
+- **Jinsong Chen**<sup>* </sup>, Gaichao Li<sup>* </sup>, John E Hopcroft, Kun He. [SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning](https://doi.org/10.1007/s10115-026-02842-x). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2026</font>**.
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Kun He. [Global-Local Contrastive Graph Transformer for Node Classification](https://ieeexplore.ieee.org/abstract/document/11557163/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2026</font>**.
 
