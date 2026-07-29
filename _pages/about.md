@@ -34,6 +34,9 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 
 <ul>
+
+  <li><B>2026.07</B>: &nbsp;🎉🎉 One paper has been accepted by International Journal of Human-Computer Interaction. Congratulations to Jianping!</li>
+
   <li><B>2026.06</B>: &nbsp;🎉🎉 One paper has been accepted by Knowledge and Information Systems. Thanks for Gaichao!</li>
 
   <li><B>2026.06</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Congratulations to Gaichao!</li>
@@ -143,6 +146,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He. [Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning](https://dl.acm.org/doi/10.1145/3794847). **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
 
+- Jianping Zhu, **Jinsong Chen**, Kun He. Modeling Hierarchical Knowledge Graphs in Three-Dimensional Spherical Space. **<font color=BlueViolet>International Journal of Human-Computer Interaction</font>**, **<font color=BlueViolet>2026</font>**.
 
 - Jiaxuan Song, Yue Li, Duantengchuan Li, Xiaoguang Wang, Rui Zhang, Hui Zhang, **Jinsong Chen**. [Integrating Deep Clustering and Multi-View Graph Neural Networks for Recommender System](https://www.sciencedirect.com/science/article/pii/S0950705126001929). **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2026</font>**.
 
