@@ -35,6 +35,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2026.08</B>: &nbsp;🎉🎉 One paper has been accepted by Applied Soft Computing. Thanks for all the collaborators.</li>
+
   <li><B>2026.07</B>: &nbsp;🎉🎉 One paper has been accepted by International Journal of Human-Computer Interaction. Congratulations to Jianping!</li>
 
   <li><B>2026.06</B>: &nbsp;🎉🎉 One paper has been accepted by Knowledge and Information Systems. Thanks for Gaichao!</li>
@@ -138,6 +140,9 @@ His researches lie at graph representation learning, graph data mining and AI fo
 ("*": equal contribution; "†": correspondence)
 
 ## 2026
+
+- **Jinsong Chen**, Yue Li, Mingwen Tong, Duantengchuan Li. Dual Token Mixing-based Graph Transformer for Semi-supervised Node Classification in Attributed Networks. **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2026</font>**.
+
 
 - **Jinsong Chen**<sup>* </sup>, Gaichao Li<sup>* </sup>, John E Hopcroft, Kun He. [SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning](https://doi.org/10.1007/s10115-026-02842-x). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2026</font>**.
 
