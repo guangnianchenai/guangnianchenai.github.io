@@ -35,6 +35,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2026.08</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Congratulations to Jianping!</li>
+
   <li><B>2026.08</B>: &nbsp;🎉🎉 One paper has been accepted by Applied Soft Computing. Thanks for all the collaborators.</li>
 
   <li><B>2026.07</B>: &nbsp;🎉🎉 One paper has been accepted by International Journal of Human-Computer Interaction. Congratulations to Jianping!</li>
@@ -150,6 +152,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He. [Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning](https://dl.acm.org/doi/10.1145/3794847). **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
+
+- Jianping Zhu, **Jinsong Chen**, Kun He. TopCon: A Hyperbolic Theme-Aware GNN for Hierarchical and Semantic Representation in Knowledge Graphs. **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2026</font>**.
 
 - Jianping Zhu, **Jinsong Chen**, Kun He. Modeling Hierarchical Knowledge Graphs in Three-Dimensional Spherical Space. **<font color=BlueViolet>International Journal of Human-Computer Interaction</font>**, **<font color=BlueViolet>2026</font>**.
 
