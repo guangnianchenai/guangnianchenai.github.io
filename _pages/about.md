@@ -23,7 +23,7 @@ redirect_from:
 
 Jinsong Chen (陈劲松 in Chinese) is currently an Associate Researcher at Faculty of Artificial Intelligence in Education, Central China Normal University (guangnianchenai[AT]ccnu[DOT]edu[DOT]cn, guangnianchenai[AT]gmail[DOT]com). Before that, he received his Ph.D., M.S. and B.S. degree in Computer Science from Huazhong University of Science and Technology (advised by Prof. <a href="https://scholar.google.com/citations?user=YTQnGJsAAAAJ"> Kun He </a> and Prof. <a href="https://scholar.google.com/citations?user=4Z6vo5QAAAAJ"> John Hopcroft</a>), Beijing University of Posts and Telecommunications and Xiangtan University, respectively. 
 
-His researches lie at graph representation learning, graph data mining and AI for education. He has published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong>500+</strong></a>. He also serves as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, TKDE, TPAMI, TNNLS etc.
+His researches lie at graph representation learning, graph data mining and AI for education. He has published several papers at the top international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=F470g5wAAAAJ'>google scholar citations <strong>600+</strong></a>. He also serves as a reviewer at top conferences and journals, such as ICLR, NeurIPS, ICML, KDD, TKDE, TPAMI, TNNLS etc.
 
 <p style="color: red;"> I am looking for self-motivated candidates including senior undergraduate and postgraduate. If you are interested in graph representation learning or AI for education, please feel free to drop me an e-mail with your CV. </p>
 
@@ -143,7 +143,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 ## 2026
 
-- **Jinsong Chen**, Yue Li, Mingwen Tong, Duantengchuan Li. Dual Token Mixing-based Graph Transformer for Semi-supervised Node Classification in Attributed Networks. **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2026</font>**.
+- **Jinsong Chen**, Yue Li, Mingwen Tong, Duantengchuan Li. [Dual Token Mixing-based Graph Transformer for Semi-supervised Node Classification in Attributed Networks](https://www.sciencedirect.com/science/article/pii/S1568494626017023). **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2026</font>**.
 
 
 - **Jinsong Chen**<sup>* </sup>, Gaichao Li<sup>* </sup>, John E Hopcroft, Kun He. [SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning](https://doi.org/10.1007/s10115-026-02842-x). **<font color=BlueViolet>Knowledge and Information Systems</font>**, **<font color=BlueViolet>2026</font>**.
