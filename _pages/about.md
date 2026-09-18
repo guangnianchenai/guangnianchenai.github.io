@@ -35,6 +35,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2026.09</B>: Invited to serve as an area chair for ICLR 2027.</li>
+
   <li><B>2026.08</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Congratulations to Jianping!</li>
 
   <li><B>2026.08</B>: &nbsp;🎉🎉 One paper has been accepted by Applied Soft Computing. Thanks for all the collaborators.</li>
