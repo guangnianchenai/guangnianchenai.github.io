@@ -35,7 +35,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
-  <li><B>2026.10</B>: One paper has been accepted by Pattern Recognition. Thanks for all the collaborators.</li>
+  <li><B>2026.10</B>: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition. Thanks for all the collaborators.</li>
 
   <li><B>2026.09</B>: Invited to serve as an area chair for ICLR 2027.</li>
 
