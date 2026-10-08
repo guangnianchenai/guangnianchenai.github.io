@@ -35,6 +35,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 <ul>
 
+  <li><B>2026.10</B>: One paper has been accepted by Pattern Recognition. Thanks for all the collaborators.</li>
+
   <li><B>2026.09</B>: Invited to serve as an area chair for ICLR 2027.</li>
 
   <li><B>2026.08</B>: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Big Data. Congratulations to Jianping!</li>
@@ -145,6 +147,8 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 ## 2026
 
+- **Jinsong Chen**, Mingwen Tong, Hao Fan, Yuxin Tan, Duantengchuan Li. [Beyond Topology-Driven Graph Convolution: Node Patch Convolutional Network for Node Representation Learning](https://www.sciencedirect.com/science/article/pii/S1568494626017023). **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2026</font>**.
+
 - **Jinsong Chen**, Yue Li, Mingwen Tong, Duantengchuan Li. [Dual Token Mixing-based Graph Transformer for Semi-supervised Node Classification in Attributed Networks](https://www.sciencedirect.com/science/article/pii/S1568494626017023). **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2026</font>**.
 
 
@@ -155,7 +159,7 @@ His researches lie at graph representation learning, graph data mining and AI fo
 
 - Gaichao Li<sup>* </sup>, **Jinsong Chen**<sup>* </sup>, Yangzhe Peng, Kun He. [Tokenized Heterogeneous Graph Transformer with Enhanced Local and Global Representation Learning](https://dl.acm.org/doi/10.1145/3794847). **<font color=BlueViolet>ACM Transactions on Knowledge Discovery from Data</font>**, **<font color=BlueViolet>2026</font>**.
 
-- Jianping Zhu, **Jinsong Chen**, Kun He. TopCon: A Hyperbolic Theme-Aware GNN for Hierarchical and Semantic Representation in Knowledge Graphs. **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2026</font>**.
+- Jianping Zhu, **Jinsong Chen**, Kun He. [TopCon: A Hyperbolic Theme-Aware GNN for Hierarchical and Semantic Representation in Knowledge Graphs](https://ieeexplore.ieee.org/abstract/document/11669935/). **<font color=BlueViolet>IEEE Transactions on Big Data</font>**, **<font color=BlueViolet>2026</font>**.
 
 - Jianping Zhu, **Jinsong Chen**, Kun He. Modeling Hierarchical Knowledge Graphs in Three-Dimensional Spherical Space. **<font color=BlueViolet>International Journal of Human-Computer Interaction</font>**, **<font color=BlueViolet>2026</font>**.
 
